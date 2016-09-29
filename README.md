@@ -4,7 +4,7 @@
 
 Download the package and extract it into `fuel/packages/captcha/`
 
-Add `captcha` on always_load in `app/config/config.php` or use `Package::load('captcha')
+Add `captcha` on always_load in `app/config/config.php` or use `Package::load('captcha')`
 
 ## Basic Usage
 
