@@ -1,1 +1,1 @@
-# FuelPHPCaptcha
+# Captcha for FuelPHP package
